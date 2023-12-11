@@ -17,6 +17,8 @@
 Email: sunno7867@gmail.com
 <br/>
 LinkedIn: https://www.linkedin.com/
+<br>
+My Figma: https://www.figma.com/files/user/987743888486828224
 </p>
 
 <h3 align="center" style="margin-bottom: 20px;">Languages and Tools:</h3>
