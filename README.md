@@ -1,3 +1,4 @@
+<img src="images/banner.png" alt="My Banner" />
 <h1 align="center">Hi 👋, I'm MD Abu Sayed</h1>
 <h2 align="center">Frontend Developer</h2>
 
