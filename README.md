@@ -3,7 +3,7 @@
 <h2 align="center">Frontend Developer</h2>
 
 <h3 align="center" style="margin-top: 20px;">A short description of my journey</h3>
-<p align="center">I am experienced in React JS, Tailwind CSS, Next JS, and API. I am also experienced in Firebase authentic systems. I started my web development journey in January 2018. I have worked with HTML, CSS, and JavaScript since 2022. I started learning React at the end of the at the end of 2022. Nowadays, I also work with Node JS and MongoDB and learning. I want to be a Full Stack Developer.</p>
+<p align="center">I am experienced in React JS, Tailwind CSS, Next JS, and API. I am also experienced in Firebase authentic systems. I started my web development journey in January 2018. I have worked with HTML, CSS, and JavaScript till 2022. I started learning React at the end of the at the end of 2022. Nowadays, I also work with Node JS and MongoDB and learning. I want to be a Full Stack Developer.</p>
 <hr>
 
 - I am working on this one and trying to improve the design and the user [MM Reataurant](https://heartfelt-cheesecake-36eefa.netlify.app/)
@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-Email: react.dev.sayed@gmail.com
+Email: sayed.dev09@gmail.com
 <br/>
 LinkedIn: https://www.linkedin.com/
 <br>
