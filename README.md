@@ -6,11 +6,11 @@
 <p align="center">I am experienced in React JS, Tailwind CSS, Next JS, and API. I am also experienced in Firebase authentic systems. I started my web development journey in January 2018. I have worked with HTML, CSS, and JavaScript till 2022. I started learning React at the end of 2022. Nowadays, I also work with Node JS and MongoDB and learning. I want to be a Full Stack Developer.</p>
 <hr>
 
-- I am working on this one and trying to improve the design and the user [MM Reataurant](https://heartfelt-cheesecake-36eefa.netlify.app/)
+- [OxyManager](https://oxymanager.com/)
 
-- I am working on this one and trying to improve the design and the user [MM Store](https://stunning-klepon-4a547e.netlify.app/)
+- [AdsyClub](https://adsyclub.com/)
 
-- This one is half done and I am working to complete [MM Courier](https://chic-daffodil-69f2dd.netlify.app/)
+- [MySola](https://mysola.io/)
 
 <h3 align="center">Connect with me:</h3>
 
